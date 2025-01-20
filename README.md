@@ -1,4 +1,4 @@
-# Loading-MySQL-Database-with-Excel-File-with-Multiples-Sheets
+# Transactional Database Modeling
 ## Overview
 This repository contains documentation on how to populate a MySQL database with data from an Excel file containing multiple sheets. The dataset includes information about credit card fraud transactions from the period of January 1, 2019, to December 31, 2020, obtained from Kaggle.
 ## Files
