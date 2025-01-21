@@ -1,7 +1,9 @@
 # Transactional Database Modeling
 ## Overview
 This repository contains documentation on how to populate a MySQL database with data from an Excel file containing multiple sheets. The dataset includes information about credit card fraud transactions from the period of January 1, 2019, to December 31, 2020, obtained from Kaggle.
-## Files
+## OLTP Architecture
+- **Conceptual Model of the dataset**
+  ![image alt](https://github.com/aetekpo/OLTP-Data-Modeling/blob/7a47528abb306c7bec2603007c467600e79a64a4/Conceptual%20Model%20for%20the%20dataset.png)
 -	**Database_Creation.sql**: Contains SQL queries used to create the Entity-relationship diagram (ERD).
 -	**Data_Model_ERD.png**: Entity-relationship diagram (ERD) illustrating the data and relationships between tables.
 - **Data_Dictionary.xlsx**: Documentation describing the structure and contents of each table in the database.
