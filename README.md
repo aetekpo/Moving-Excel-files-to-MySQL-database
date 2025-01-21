@@ -24,6 +24,9 @@ The original dataset is obtained from Kaggle and contained legitimate and fraud 
 - **Data Model ERD** This shows the full relationship between tables in the database after the script was run
 
  ![image alt](https://github.com/aetekpo/OLTP-Data-Modeling/blob/master/Data_Model_ERD.png?raw=true)
+
+ - **Data Dictionary**
+ ![image alt](https://github.com/aetekpo/OLTP-Data-Modeling/blob/4d60f565bb4a949d88d8bfda13d0b4ec4b8d52c0/Data%20Dictionary.png)
   
 ## Author
 [Asserewou Etekpo](https://www.linkedin.com/in/asserewou-etekpo-1450821a2/)
