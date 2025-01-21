@@ -26,6 +26,7 @@ The original dataset is obtained from Kaggle and contained legitimate and fraud 
  ![image alt](https://github.com/aetekpo/OLTP-Data-Modeling/blob/master/Data_Model_ERD.png?raw=true)
 
  - **Data Dictionary**
+ 
  ![image alt](https://github.com/aetekpo/OLTP-Data-Modeling/blob/4d60f565bb4a949d88d8bfda13d0b4ec4b8d52c0/Data%20Dictionary.png)
   
 ## Author
