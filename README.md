@@ -12,7 +12,9 @@ The original dataset is obtained from Kaggle and contained legitimate and fraud 
 - **Conceptual Model to build the database** This shows the relationship between the entities.
   
   ![image alt](https://github.com/aetekpo/OLTP-Data-Modeling/blob/9e933f16ed0d51f0dda7a6325f6d59f9d9c660f3/Conceptual%20Model%20for%20the%20dataset.png)
-- **Logical Model to build the database**
+  
+- **Logical Model to build the database** This defines the entities, the relationships, key attributes, and the normalization
+  
 - **Physical Model to build the database**
 - **Data Dictionary**
 ## Author
