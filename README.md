@@ -12,6 +12,7 @@ The original dataset is obtained from Kaggle and contained legitimate and fraud 
 - **Conceptual Model to build the database**
 - **Logical Model to build the database**
 - **Physical Model to build the database**
+- **Data Dictionary**
 ## Author
 [Asserewou Etekpo](https://www.linkedin.com/in/asserewou-etekpo-1450821a2/)
 
