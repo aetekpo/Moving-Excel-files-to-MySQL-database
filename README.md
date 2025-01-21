@@ -9,7 +9,9 @@ The original dataset is obtained from Kaggle and contained legitimate and fraud 
 - **Step 2**: The subfraudtest was split into different Excel sheets using Python which corresponds to different tables in MySQL database.
 - **Step 3**: The tables in the database were populated with data coming from corresponding Excel sheets using python scripts.
 ## Architecture to build the database
-- **Conceptual Model for the dataset**
+- **Conceptual Model to build the database**
+- **Logical Model to build the database**
+- **Physical Model to build the database**
 ## Author
 [Asserewou Etekpo](https://www.linkedin.com/in/asserewou-etekpo-1450821a2/)
 
