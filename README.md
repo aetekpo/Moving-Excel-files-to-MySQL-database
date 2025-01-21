@@ -14,8 +14,13 @@ The original dataset is obtained from Kaggle and contained legitimate and fraud 
   ![image alt](https://github.com/aetekpo/OLTP-Data-Modeling/blob/9e933f16ed0d51f0dda7a6325f6d59f9d9c660f3/Conceptual%20Model%20for%20the%20dataset.png)
   
 - **Logical Model to build the database** This defines the entities, the relationships, key attributes, and the normalization
+  
   ![image alt](https://github.com/aetekpo/OLTP-Data-Modeling/blob/264f381690c3a1ce91f127d2255fd7225849524d/Logical%20Model%20for%20the%20dataset.png)
-- **Physical Model to build the database**
+  
+- **Physical Model to build the database** This implements the SQL script which creates tables, columns, indexes, constraints in relational database.
+
+  ![image alt](https://github.com/aetekpo/OLTP-Data-Modeling/blob/ba7d59ee22ae712c1d5db12743006847375d0a9e/Physical%20Model%20for%20the%20dataset.png)
+  
 - **Data Dictionary**
 ## Author
 [Asserewou Etekpo](https://www.linkedin.com/in/asserewou-etekpo-1450821a2/)
