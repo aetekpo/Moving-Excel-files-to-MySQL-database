@@ -10,6 +10,7 @@ The original dataset is obtained from Kaggle and contained legitimate and fraud 
 - **Step 3**: The tables in the database were populated with data coming from corresponding Excel sheets using python scripts.
 ## Architecture to build the database
 - **Conceptual Model to build the database**
+  ![image alt](https://github.com/aetekpo/OLTP-Data-Modeling/blob/9e933f16ed0d51f0dda7a6325f6d59f9d9c660f3/Conceptual%20Model%20for%20the%20dataset.png)
 - **Logical Model to build the database**
 - **Physical Model to build the database**
 - **Data Dictionary**
